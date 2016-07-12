@@ -5,5 +5,4 @@ class Card
     @question = question
     @answer = answer
   end
-
 end

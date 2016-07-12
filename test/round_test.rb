@@ -5,7 +5,6 @@ require_relative '../lib/guess'
 require 'minitest'
 require 'minitest/autorun'
 require 'minitest/pride'
-require 'pry'
 
 class RoundTest < Minitest::Test
 
